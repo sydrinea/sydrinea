@@ -1,3 +1,5 @@
-Hi! I'm Sydney, a rising sophomore majoring in computer science. My primary academic interests are in design (of [programming languages](https://github.com/cecelot/kyanite) and operating systems), machine learning, and [numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis).
+Hi! I'm Sydney, a rising sophomore majoring in computer science. My primary academic interests are in systems design (e.g., of [programming languages](/node/writing-a-compiler)), [distributed computing](https://en.wikipedia.org/wiki/Distributed_computing), and [numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis).
 
-I'm currently interested in learning functional languages like [Haskell](https://www.haskell.org/).
+When I'm not in class, you can usually find me working on my latest side
+project, reading a book, playing [Magic](https://magic.wizards.com) with
+friends, or in the outdoors doing anything from skiing to hiking to kayaking.
