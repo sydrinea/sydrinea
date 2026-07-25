@@ -1,6 +1,6 @@
 Hi! I'm Sydney, a junior majoring in computer science at [WPI](https://wpi.edu). My primary 
 academic interests are in systems design (especially [programming languages](https://github.com/sydrinea/kyanite) 
-and [compilers](https://sydneyn.dev/node/writing-a-compiler)), [distributed computing](https://github.com/sydrinea/olly), 
+and [compilers](https://sydneyn.dev/node/writing-a-compiler)), distributed computing, 
 and [probabilistic modeling](https://github.com/sydrinea/endereye).
 
 I'm currently building [Delta](https://comptheory.tools), a code-first environment 
